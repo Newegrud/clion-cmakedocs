@@ -4,7 +4,6 @@ import com.intellij.notification.NotificationType
 import com.intellij.notification.Notifications
 import com.intellij.psi.PsiElement
 import com.jetbrains.cidr.cpp.toolchains.CPPToolchains;
-//import com.jetbrains.cidr.cpp.CPPToolchains
 import com.jetbrains.cidr.cpp.cmake.psi.CMakeCommandName
 import com.jetbrains.cidr.cpp.cmake.psi.CMakeElement
 import com.jetbrains.cidr.cpp.cmake.psi.CMakeLiteral
